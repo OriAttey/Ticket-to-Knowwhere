@@ -1,0 +1,31 @@
+Ship ID: MR-08-12
+Name: Warlock
+Time In: 17:00
+Time Out: 17:09
+Credited Minutes: 6
+Extra Minutes: 3
+Fine: 600 units
+
+Ship ID: BB-12-92
+Name: Talon
+Time In: 10:40
+Time Out: 17:23
+Credited Minutes: 60
+Extra Minutes: 283
+Fine: 153500 units
+
+Ship ID: LY-06-05
+Name: Thanos
+Time In: 17:38
+Time Out: 18:45
+Credited Minutes: 30
+Extra Minutes: 37
+Fine: 7400 units
+
+Ship ID: KC-01-01
+Name: Ronan
+Time In: 19:00
+Time Out: 21:00
+Credited Minutes: 77
+Extra Minutes: 43
+Fine: 8600 units

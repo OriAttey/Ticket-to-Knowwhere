@@ -1,0 +1,23 @@
+Ship ID: BB-12-92
+Name: Nikki
+Time In: 0:40
+Time Out: 2:00
+Credited Minutes: 60
+Extra Minutes: 20
+Fine: 4000 units
+
+Ship ID: AT-GM-12
+Name: Vance_Astro
+Time In: 2:00
+Time Out: 3:01
+Credited Minutes: 60
+Extra Minutes: 1
+Fine: 200 units
+
+Ship ID: DN-12-92
+Name: Starlord
+Time In: 1:30
+Time Out: 5:40
+Credited Minutes: 240
+Extra Minutes: 10
+Fine: 2000 units

@@ -1,0 +1,7 @@
+enter 00:01 Moondragon AK-03-92 1000
+enter 00:05 Mantis NW-06-92 30
+enter 00:40 Groot BB-12-92 60
+exit NW-06-92 00:55
+exit BB-12-92 01:00
+exit AK-03-92 23:59
+enter 23:59 Cosmo DW-19-43 1

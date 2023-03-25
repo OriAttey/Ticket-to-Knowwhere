@@ -1,0 +1,15 @@
+Ship ID: NW-06-92
+Name: Mantis
+Time In: 00:05
+Time Out: 00:55
+Credited Minutes: 30
+Extra Minutes: 20
+Fine: 4000 units
+
+Ship ID: AK-03-92
+Name: Moondragon
+Time In: 00:01
+Time Out: 23:59
+Credited Minutes: 1000
+Extra Minutes: 438
+Fine: 201000 units

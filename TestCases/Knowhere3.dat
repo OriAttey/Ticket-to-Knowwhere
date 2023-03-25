@@ -1,0 +1,38 @@
+enter 00:01 Star-Lord AK-03-92 60
+enter 00:05 Gamora NW-06-92 120
+enter 00:40 Rocket_Raccoon BB-12-92 60
+exit AK-03-92 00:59
+enter 01:30 Groot DN-12-92 240
+exit BB-12-92 02:00
+exit NW-06-92 02:04
+enter 03:00 Mantis AM-02-93 360
+enter 03:15 Major_Victory TU-05-93 300
+enter 04:30 Moondragon RM-05-14 720
+enter 05:00 Drax FZ-02-14 360
+enter 05:30 Ronan LG-05-10 180
+exit DN-12-92 05:40
+enter 06:00 Nebula AL-04-11 480
+enter 06:30 Kree MR-08-12 600
+enter 06:45 Ego EM-11-14 420
+enter 07:10 Yondu LY-06-05 540
+enter 07:15 Martinex KC-01-01 300
+enter 07:30 Charlie-27 CE-03-10 240
+enter 07:40 Cosmo HB-09-12 300
+enter 08:00 Vance_Astro BB-05-11 360
+enter 08:30 Collector MS-11-96 60
+enter 08:40 Bug GN-08-87 120
+exit AM-02-93 08:45
+exit LG-05-10 09:00
+exit TU-05-93 09:10
+exit FZ-02-14 12:00
+exit KC-01-01 12:15
+exit CE-03-10 13:00
+exit EM-11-14 13:30
+exit HB-09-12 14:00
+exit BB-05-11 15:00
+exit MR-08-12 16:00
+exit LY-06-05 16:12
+exit RM-05-14 16:15
+exit AL-04-11 17:00
+exit MS-11-96 19:30
+exit GN-08-87 20:30
